@@ -1,0 +1,16 @@
+class B
+{
+<<<<<<< HEAD
+	int j=20;
+we are learning git and github
+=======
+int a=10;
+  we are learning git and github
+>>>>>>> f48c900141160ffbe9c66ff32fbadaf603074d00
+  we are learning pull command
+  
+
+
+Hi
+
+}
